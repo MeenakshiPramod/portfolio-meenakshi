@@ -141,7 +141,7 @@ const About: React.FC = () => {
                 className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/public/WhatsApp Image 2025-06-15 at 19.33.52_7053b591.jpg"
+                  src="/WhatsApp Image 2025-06-15 at 19.33.52_7053b591.jpg"
                   alt="Meenakshi Pramod"
                   className="w-full h-full object-cover"
                 />
